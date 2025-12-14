@@ -47,7 +47,7 @@ blog_post_app_backend/
 
 Make sure you have installed:
 
-- [.NET SDK (9.0+)](https://dotnet.microsoft.com/download)
+- [.NET SDK (9.0)](https://dotnet.microsoft.com/download)
 - A database (PostgreSQL)
 
 ---
