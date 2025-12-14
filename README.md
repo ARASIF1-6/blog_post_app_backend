@@ -1,3 +1,13 @@
+<div align="center">
+  <h1>📌 Blog Post App Backend</h1>
+  <p>A simple and robust backend API for managing blog posts</p>
+  <img src="https://img.shields.io/github/languages/top/ARASIF1-6/blog_post_app_backend?color=blue" alt="Top Language">
+  <img src="https://img.shields.io/github/repo-size/ARASIF1-6/blog_post_app_backend?color=green" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/ARASIF1-6/blog_post_app_backend?color=yellow" alt="Last Commit">
+</div>
+
+---
+
 ## 🧠 Overview
 
 This project is the backend service for a blog post application. It exposes RESTful APIs to create, read, update, and delete blog posts. The backend is built to be scalable, maintainable, and easy to integrate with any frontend client.
