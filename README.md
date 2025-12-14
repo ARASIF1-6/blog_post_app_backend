@@ -59,14 +59,17 @@ Make sure you have installed:
    git clone https://github.com/ARASIF1-6/blog_post_app_backend.git
    cd blog_post_app_backend
 
-## Restore dependencies
-dotnet restore
+2. **Restore dependencies**
+   ```bash
+   dotnet restore
 
-## Run the app
-dotnet run --project BlogPostApp
+3. **Run the app**
+   ```bash
+   dotnet run --project BlogPostApp
 
-## Visit your API:
-http://localhost:5000/api/posts
+4. **Visit your API:**
+   ```bash
+   http://localhost:5000/api/posts
 
 ## API Endpoints
 | Method | Endpoint      | Description             |
